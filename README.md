@@ -10,10 +10,10 @@ Cada pasta representa uma ferramenta ou linguagem trabalhada em aula, com exerc�
 
 | Pasta | Descrição | Status |
 |-------|-----------|--------|
-| [🐍 python](./Python) | Exercícios com Python: manipulação de arquivos, gráficos e planilhas | ✅ Ativo |
-| [📊 excel](./Excel) | Atividades com Excel | 🔜 Em breve |
+| [🐍 python](./python) | Exercícios com Python: manipulação de arquivos, gráficos e planilhas | ✅ Ativo |
+| [📊 excel](./excel) | Atividades com Excel | 🔜 Em breve |
 | [📈 power-bi](./power-bi) | Dashboards e visualizações | 🔜 Em breve |
-| [🗄️ sql](./SQL) | Consultas e análises com SQL | 🔜 Em breve |
+| [🗄️ sql](./sql) | Consultas e análises com SQL | 🔜 Em breve |
 | [🤖 ia-studio](./ia-studio) | Projetos interativos gerados com Google AI Studio | ✅ Ativo |
 
 ---
