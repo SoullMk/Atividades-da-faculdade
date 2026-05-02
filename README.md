@@ -1,20 +1,36 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 📚 Atividades da Faculdade
 
-# Run and deploy your AI Studio app
+Repositório com todas as atividades práticas desenvolvidas durante minha formação em Ciência de Dados na FMU São Paulo.
 
-This contains everything you need to run your app locally.
+Cada pasta representa uma ferramenta ou linguagem trabalhada em aula, com exercícios aplicados a problemas reais ou simulados.
 
-View your app in AI Studio: https://ai.studio/apps/4e2dfee9-0660-4d66-903e-7f17263b2447
+---
 
-## Run Locally
+## 🗂️ Estrutura
 
-**Prerequisites:**  Node.js
+| Pasta | Descrição |
+|-------|-----------|
+| `python/` | Exercícios com Python: manipulação de arquivos, gráficos e planilhas |
+| `excel/` | Atividades com Excel *(em breve)* |
+| `power-bi/` | Dashboards e visualizações *(em breve)* |
+| `sql/` | Consultas e análises com SQL *(em breve)* |
 
+---
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 🐍 Python
+
+| Atividade | Descrição | Ferramentas |
+|-----------|-----------|-------------|
+| [Criando_gráficos_pelo_python](./python/Criando_gráficos_pelo_python.ipynb) | Criação de gráficos usando a biblioteca Matplotlib | Python, Matplotlib |
+| [Criando_uma_Planilha_Profissional](./python/Criando_uma_Planilha_Profissional.ipynb) | Geração e formatação de planilhas profissionais | Python, Pandas |
+| [Organizando_Arquivos_com_Python](./python/Organizando_Arquivos_com_Python.ipynb) | Organização automática de arquivos por extensão usando Path e shutil | Python, os, shutil, pathlib |
+
+> Novas atividades serão adicionadas conforme o avanço do curso.
+
+---
+
+## 👤 Autor
+
+**Kaike Martins** — Estudante de Ciência de Dados · FMU São Paulo
+
+[LinkedIn](https://www.linkedin.com/in/kaikemarttins) · [GitHub](https://github.com/SoullMk)
